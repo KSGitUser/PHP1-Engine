@@ -1,0 +1,27 @@
+.gallery_item img {
+  width: 300px; }
+
+h1, h3 {
+  text-align: center; }
+
+.gallery_wrapper {
+  max-width: 980px;
+  margin: auto;
+  column-gap: 20px;
+  display: grid;
+  grid-template-columns: repeat(4, auto);
+  justify-content: space-evenly;
+  grid-template-rows: repeat(3, 300px); }
+
+.rating_of_photo {
+  text-align: center; }
+
+.single_big_image {
+  margin: auto;
+  display: block; }
+
+.single_item_a_back {
+  text-align: center;
+  display: block; }
+
+/*# sourceMappingURL=style.css.map */
