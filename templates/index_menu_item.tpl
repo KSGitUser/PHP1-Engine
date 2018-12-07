@@ -1,0 +1,1 @@
+<a href="{{HREF}}" class="menu_href">{{CONTENT}}</a>

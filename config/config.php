@@ -15,6 +15,7 @@ define('IMG_DIR', WWW_ROOT . '/img');
 
 define('SITE_TITLE', 'Урок 5');
 //подгружаем основные функции
+require_once(LIB_DIR . '/calc.php');
 require_once(LIB_DIR . '/functions.php');
 require_once(LIB_DIR . '/db.php');
 require_once(LIB_DIR . '/log.php');
